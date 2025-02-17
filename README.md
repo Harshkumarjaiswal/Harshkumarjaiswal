@@ -49,7 +49,7 @@ Innovative web development projects and hackathons.
 - API Development: RESTful APIs
 
 ## 🔗 Connect with Me:
-- LinkedIn: harsh-kumar-010690228
+- LinkedIn: www.linkedin.com/in/harsh-kumar-010690228
 
 ## 🛠️ Languages and Tools:
 -C/CPP,Java,Python(NumPy,pandas,matplotlib seaborn)
